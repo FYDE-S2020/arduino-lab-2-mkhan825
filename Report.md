@@ -37,4 +37,4 @@ What is the difference between interface and implementation? Why is it important
 Interface is used in order to create a structure so that in the future if we want to do something, it will be available. But implementation means to actually do the action that you are specifying. 
 
 Screenshot of your Blynk App: 
-![your image here->](img/fydelab.PNG)
+![your image here->](img/fydelab.png)
